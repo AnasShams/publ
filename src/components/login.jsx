@@ -84,7 +84,7 @@ function Login() {
                     </div>
                     </div>
           )}
-            <div className='more'> See more...</div>
+            
           
         </div>
         </div>
