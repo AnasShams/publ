@@ -5,7 +5,7 @@ import './TaskPage.css'
 function TaskPage() {
   const { taskType } = useParams();
 
-  console.log("taskType:", taskType); // Add this line for debugging
+  console.log("taskType:", taskType); 
 
   return (
     <div>
